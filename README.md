@@ -1,0 +1,3 @@
+# -Binary-Classification-of-Pneumonia-Using-PneumoniaMNIST-Dataset-
+
+I recently completed a project building a binary classification model using the PneumoniaMNIST dataset to detect pneumonia cases from chest X-ray images. The dataset was divided into training, validation, and testing sets with labeled images of normal and pneumonia cases. With a training set of 4,708 images, the model was trained to accurately classify X-rays as either normal or pneumonia. This project demonstrates the potential of machine learning in supporting early detection and diagnosis, providing a reliable tool for aiding medical professionals in identifying pneumonia effectively.
